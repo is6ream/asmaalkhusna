@@ -1,0 +1,15 @@
+.git
+.agents
+.codex
+node_modules
+html-presentation/node_modules
+html-presentation/dist
+html-presentation/audit
+html-presentation/screenshots
+output
+assets
+*.zip
+*.pptx
+*.pdf
+.env
+.env.*

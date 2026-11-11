@@ -1,0 +1,74 @@
+{
+  "project": {
+    "name": "Асма аль-Хусна",
+    "year": 2026,
+    "slides": 12,
+    "language": "ru",
+    "style": "Modern Islamic EdTech"
+  },
+  "finance": {
+    "currency": "RUB",
+    "developer_monthly_rate": 150000,
+    "developer_months": 6,
+    "developer_total_calculated": 900000,
+    "design": null,
+    "qa": null,
+    "legal": null,
+    "infrastructure": null,
+    "marketing": null,
+    "support": null,
+    "reserve": null,
+    "total_budget": null,
+    "status": "предварительные допущения; общий бюджет не утверждён"
+  },
+  "roadmap": {
+    "stages": [
+      {
+        "name": "Проектирование",
+        "months": 2
+      },
+      {
+        "name": "Первый рабочий продукт",
+        "months": 3
+      },
+      {
+        "name": "Расширение",
+        "months": 3
+      },
+      {
+        "name": "Тестирование",
+        "months": 2
+      },
+      {
+        "name": "Запуск",
+        "months": 2
+      }
+    ],
+    "total_months_calculated": 12
+  },
+  "audience": {
+    "TAM": null,
+    "SAM": null,
+    "SOM": null,
+    "launch_users": null
+  },
+  "style": {
+    "heading_font": "Montserrat",
+    "body_font": "Montserrat",
+    "arabic_font": "выбрать совместимый шрифт с корректным RTL",
+    "colors": {
+      "emerald": "#083D34",
+      "dark": "#052D28",
+      "ivory": "#FFF9F0",
+      "gold": "#D8BA7B",
+      "sage": "#DCEAE4",
+      "ink": "#173B34"
+    }
+  },
+  "rules": [
+    "Не заменять null на ноль или придуманную сумму.",
+    "Изменение config не синхронизируется с Gamma автоматически: заново вставить обновленные значения или дать инструкцию Gamma Agent.",
+    "900000 RUB — только оценка труда разработчика.",
+    "Тексты и референсы согласованы как концепция, не как запущенный продукт."
+  ]
+}
